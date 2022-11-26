@@ -50,7 +50,7 @@ Use the following command to run the financial planning app
 
 ## ETF Analyzer web report through Voila
 
-
+![GIF](ETF-outcome-screencapture.png)
 
 ---
 
