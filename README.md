@@ -1,4 +1,4 @@
-#ETF Analyzer
+# ETF Analyzer
 -----------
 
 ![Finanl Planning](Challenge-image.png)
@@ -22,9 +22,9 @@ This project leverages python 3.7 with the following packages:
 * [Numpy](https://numpy.org/doc/stable/user/whatisnumpy.html) - Numpy library used for math calculations
 * [Matplotlib](https://matplotlib.org/stable/index.html) -  Matplot library used for graph plotting
 * [Pathlib](https://docs.python.org/3/library/pathlib.html) - Path library to provide local file path
-* [Monte Carlos library](Uploaded to repo) - Monte Carlos library for forecasting the portfolio performance 
-* [Alpaca APIs](https://alpaca.markets/) - Aplaca APIs to download the historical data 
-* [Request](https://pypi.org/project/requests/) - Library to handle HTTP request / response
+* []() - Monte Carlos library for forecasting the portfolio performance 
+* []() - Aplaca APIs to download the historical data 
+* []() - Library to handle HTTP request / response
 
 ## Installation Guide
 
@@ -37,8 +37,6 @@ Before running the application first install the following dependencies.
   pip install matplotlib
   pip install pathlib
   pip install Numpy
-  pip install alpaca-py
-  pip install requests
   
 ```
 
@@ -49,6 +47,10 @@ Use the following command to run the financial planning app
 ```git to the directory and type
  jupyter lab
 ```
+
+## ETF Analyzer web report through Voila
+
+
 
 ---
 
